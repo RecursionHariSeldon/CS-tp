@@ -1,0 +1,15 @@
+Move no. 1
+White's Pawn has been moved from e2 to e3
+Move no. 1
+White's Pawn has been moved from f7 to f6
+
+Move no. 2
+White's Bishop has been moved from f1 to b5
+Move no. 2
+White's Pawn has been moved from a7 to a6
+
+Move no. 3
+White's Bishop has been moved from b5 to d7
+--by capturing the Pawn
+# Black is under check! 
+Move no. 3

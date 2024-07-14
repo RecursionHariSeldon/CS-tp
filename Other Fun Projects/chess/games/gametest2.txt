@@ -1,0 +1,14 @@
+Move no. 1
+White's Pawn has been moved from e2 to e4
+Move no. 1
+White's Pawn has been moved from f7 to f6
+
+Move no. 2
+White's Bishop has been moved from f1 to d3
+Move no. 2
+White's Pawn has been moved from g7 to g5
+
+Move no. 3
+White's Queen has been moved from d1 to h5
+# Black is under check! 
+Move no. 3

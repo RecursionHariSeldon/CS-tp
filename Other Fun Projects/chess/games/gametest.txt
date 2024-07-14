@@ -1,0 +1,129 @@
+Move no. 1
+White's Pawn has been moved from d2 to d4
+Move no. 1
+White's Pawn has been moved from e7 to e5
+
+Move no. 2
+White's Pawn has been moved from d4 to e5
+--by capturing the Pawn
+Move no. 2
+White's Pawn has been moved from d7 to d6
+
+Move no. 3
+White's Pawn has been moved from e5 to d6
+--by capturing the Pawn
+Move no. 3
+White's Knight has been moved from g8 to f6
+
+Move no. 4
+White's Pawn has been moved from d6 to d7
+# Black is under check! 
+Move no. 4
+White's Queen has been moved from d8 to d7
+--by capturing the Pawn
+
+Move no. 5
+White's Queen has been moved from d1 to d7
+--by capturing the Queen
+# Black is under check! 
+Move no. 5
+White's King has been moved from e8 to d7
+--by capturing the Queen
+
+Move no. 6
+White's Pawn has been moved from e2 to e4
+Move no. 6
+White's Knight has been moved from f6 to e4
+--by capturing the Pawn
+
+Move no. 7
+White's Bishop has been moved from f1 to b5
+# Black is under check! 
+Move no. 7
+White's King has been moved from d7 to d8
+
+Move no. 8
+White's Bishop has been moved from c1 to g5
+# Black is under check! 
+Move no. 8
+White's Knight has been moved from e4 to g5
+--by capturing the Bishop
+
+Move no. 9
+White's Knight has been moved from b1 to c3
+Move no. 9
+White's Knight has been moved from g5 to f3
+# White is under check! 
+
+Move no. 10
+White's Knight has been moved from g1 to f3
+--by capturing the Knight
+Move no. 10
+White's Pawn has been moved from a7 to a6
+
+Move no. 11
+White's Rook has been moved from a1 to d1
+# Black is under check! 
+Move no. 11
+White's Bishop has been moved from c8 to d7
+
+Move no. 12
+White's Knight has been moved from f3 to e5
+Move no. 12
+White's Knight has been moved from b8 to c6
+
+Move no. 13
+White's Knight has been moved from e5 to d7
+--by capturing the Bishop
+Move no. 13
+White's Pawn has been moved from a6 to b5
+--by capturing the Bishop
+
+Move no. 14
+White's Knight has been moved from c3 to b5
+--by capturing the Pawn
+Move no. 14
+White's Bishop has been moved from f8 to b4
+# White is under check! 
+
+Move no. 15
+White's Pawn has been moved from c2 to c3
+Move no. 15
+White's Bishop has been moved from b4 to c3
+--by capturing the Pawn
+# White is under check! 
+
+Move no. 16
+White's Knight has been moved from b5 to c3
+--by capturing the Bishop
+Move no. 16
+White's Knight has been moved from c6 to b4
+
+Move no. 17
+White's Knight has been moved from d7 to b6
+# Black is under check! 
+Move no. 17
+White's King has been moved from d8 to e8
+
+Move no. 18
+White's Knight has been moved from b6 to a8
+--by capturing the Rook
+Move no. 18
+White's King has been moved from e8 to e7
+
+Move no. 19
+White's Knight has been moved from c3 to d5
+# Black is under check! 
+Move no. 19
+White's Knight has been moved from b4 to d5
+--by capturing the Knight
+
+Move no. 20
+White's Rook has been moved from d1 to d5
+--by capturing the Knight
+Move no. 20
+White's Rook has been moved from h8 to e8
+
+Move no. 21
+White's Rook has been moved from h1 to f1
+Move no. 21
