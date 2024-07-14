@@ -1,2 +1,2 @@
-# pre-clg CS tp
- Messing around with stuff , finishing nothing lol
+# CS tp
+ Messing around with stuff , finishing nothing lol, pure procastination:)
